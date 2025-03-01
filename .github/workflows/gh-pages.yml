@@ -17,5 +17,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
-          folder: src# Change this to the folder containing your index.html
+          folder: src
           clean: true
